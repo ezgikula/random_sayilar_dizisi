@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var text7: UILabel!
     
     @IBOutlet weak var text8: UILabel!
-    
+   
     @IBOutlet weak var text9: UILabel!
     
     override func viewDidLoad() {
@@ -78,5 +78,4 @@ class ViewController: UIViewController {
     }
 
 
-// dictionary mi tanımlamam gerekiyor ?
 
